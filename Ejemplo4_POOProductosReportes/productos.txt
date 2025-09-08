@@ -1,0 +1,13 @@
+Id -  Nombre - Precio - Cantidad
+1 - Salsa - 9.99 - 20
+2 - Pescado - 15.95 - 100
+3 - Sopa - 3.0 - 100
+4 - Cereal - 20.0 - 400
+5 - Arroz - 5.0 - 500
+6 - Pizza - 35.0 - 100
+7 - Gaseosa - 15.0 - 300
+8 - Gelatina - 10.0 - 400
+9 - Chocolate en barra - 3.0 - 300
+10 - Galletas - 24.99 - 100
+11 - Papitas - 10.0 - 180
+12 - Pan - 900.0 - 890
