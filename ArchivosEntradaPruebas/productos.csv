@@ -1,0 +1,16 @@
+codigo,nombre,categoria,atributo_unico,precio
+P001,Producto 1,Tecnologia,21,1234.85
+P002,Producto 2,Tecnologia,20,1832.32
+P003,Producto 3,Tecnologia,17,1500.36
+P004,Producto 4,Tecnologia,22,1389.92
+P005,Producto 5,Tecnologia,32,1682.27
+P006,Producto 6,Alimento,2026-07-16,14.1
+P007,Producto 7,Alimento,2026-02-03,29.24
+P008,Producto 8,Alimento,2026-03-09,29.12
+P009,Producto 9,Alimento,2026-09-29,41.95
+P010,Producto 10,Alimento,2026-08-10,38.85
+P011,Producto 11,General,Plástico,59.01
+P012,Producto 12,General,Madera,81.96
+P013,Producto 13,General,Metal,85.67
+P014,Producto 14,General,Madera,136.71
+P015,Producto 15,General,Vidrio,96.23
